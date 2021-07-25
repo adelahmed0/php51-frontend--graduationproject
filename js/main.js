@@ -50,7 +50,6 @@ function diseaseOne() {
     fourthSymptom.style.display = "none";
     sixthBusters.style.display = "none";
     firstDisease.style.display = "block";
-    diseaseOnee.classList.add('active');
     firstPd.classList.toggle('change-color');
     bodyFirstd.classList.toggle('display-none');
     bodyFirstd.classList.toggle('display-block');
